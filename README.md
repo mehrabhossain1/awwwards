@@ -17,7 +17,7 @@
 ## ⚠️ Inspired by
 
 All design credits go to .  <a href="https://zentry.com/" target="_blank">
-   **[Zentry](https://zentry.com/)**
+   **Zentry**
     </a>
 
 
