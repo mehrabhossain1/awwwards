@@ -1,6 +1,8 @@
 <div align="center">
   <br />
-   ![Description](bannerImage.jpeg)
+  <a>
+   <img src="public/bannerImage.jpeg" alt="Project Banner">
+</a>
   <br />
 
   <div>
