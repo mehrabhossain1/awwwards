@@ -1,10 +1,8 @@
-import { FaDiscord, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const links = [
-  { href: "https://github.com/mehrabhossain", icon: <FaGithub /> },
-  { href: "https://www.linkedin.com/in/mehrabhossain/", icon: <FaLinkedin /> },
-  { href: "https://www.twitter.com", icon: <FaTwitter /> },
-  { href: "https://www.discord.com", icon: <FaDiscord /> },
+  { href: "https://github.com/mehrabhossain1", icon: <FaGithub /> },
+  { href: "https://www.linkedin.com/in/mehrabhossain1", icon: <FaLinkedin /> },
 ];
 
 const Footer = () => {
